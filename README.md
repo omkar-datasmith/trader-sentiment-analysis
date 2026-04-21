@@ -1,6 +1,6 @@
 # 📊 Bitcoin Sentiment × Trader Behaviour Analysis
 
-### Data Science Internship Assignment — Primetrade.ai  
+### Data Science  
 **Author:** Omkar Thakur  
 
 ---
